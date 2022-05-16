@@ -1,0 +1,172 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(80, 180, 180);
+    margin: 0;
+    padding: 0;
+}
+
+        .wrapper{
+            background: url(logo.jpg)
+            min-height: 5rem;
+            padding:  60px;
+        }
+
+nav{
+    width: 100%;
+    height: 80px;
+    background-color:orange  (5, 5, 5, 0.333);
+    color: white;
+    /* line-height: 80px; */
+}
+
+nav ul{
+    float: right;
+    margin: 0;
+    margin-right: 1.0rem;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    /* color: white; */
+    /* color:rgb(236, 78, 15) (236, 22, 33); */
+    padding: 30px;
+}
+
+img{
+    width: 14%;
+    margin-left: 1.9rem;
+    margin-top: -4%;
+}
+
+nav ul li:hover{
+    background-color(45, 13, 230);
+    color: rgb(231, 48, 24);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.section{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: %;
+}
+
+.section h1{
+    color:rgb(18, 27, 3);
+    line-height: 50px;
+}
+
+.section p{
+    color: black;
+}
+
+.btn-1{
+    background-color:chocolate;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+.features{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.features button{
+    padding: 0.7rem 2rem;
+    margin-right: 2rem;
+    font-size: 1.2rem;
+    opacity: 0.7;
+}
+
+showcase h1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+#courses{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#courses img{
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    margin: auto;
+}
+
+.apply{
+    margin-top: 4%;
+    background-color:orange;
+    padding: 0.7rem 1rem;
+    color: black(238, 40, 179);
+    border: ;
+    border-radius: 10px;
+}
+
+
+footer{
+    background-color: rgb(141, 179, 158);
+    color: rgb(122, 13, 13);
+    text-align: center;
+    padding: 1.2rem;
+    margin-top: 4%;
+}
+.login_oueter {
+    width: 360px;
+    max-width: 100%;
+}
+.logo_outer{
+    text-align: center;
+}
+.logo_outer img{
+    width:120px;
+    margin-bottom: 40px;
+}
+li{
+    color: white;
+}
+#clg
+{
+    font-size: 30px;
+    font-style:normal;
+   
+}
+
+/*THE END*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
